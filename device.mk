@@ -164,6 +164,7 @@ PRODUCT_PACKAGES += \
     SystemUIResMarble \
     TelecommResCommon \
     TelephonyResCommon \
+    TetheringResCommon \
     UpdatesResMarble \
     WifiResCommon \
     WifiResMarble
