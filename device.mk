@@ -64,9 +64,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES_DEBUG += \
     bootctl
 
-# Camera
-PRODUCT_PACKAGES += \
-    GCamGOPrebuilt-V4
+# MiuiCamera
+$(call inherit-product, vendor/xiaomi/miuicamera/config.mk)
 
 # Displayconfig
 PRODUCT_COPY_FILES += \
