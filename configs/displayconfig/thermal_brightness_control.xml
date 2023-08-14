@@ -6,12 +6,12 @@
         <temperature-brightness-pair>
             <min-inclusive>30</min-inclusive>
             <max-exclusive>46</max-exclusive>
-            <nit>1200</nit>
+            <nit>1000</nit>
         </temperature-brightness-pair>
         <temperature-brightness-pair>
             <min-inclusive>46</min-inclusive>
             <max-exclusive>50</max-exclusive>
-            <nit>600</nit>
+            <nit>500</nit>
         </temperature-brightness-pair>
         <temperature-brightness-pair>
             <min-inclusive>51</min-inclusive>
@@ -25,12 +25,12 @@
         <temperature-brightness-pair>
             <min-inclusive>30</min-inclusive>
             <max-exclusive>46</max-exclusive>
-            <nit>1200</nit>
+            <nit>1000</nit>
         </temperature-brightness-pair>
         <temperature-brightness-pair>
             <min-inclusive>46</min-inclusive>
             <max-exclusive>50</max-exclusive>
-            <nit>600</nit>
+            <nit>500</nit>
         </temperature-brightness-pair>
         <temperature-brightness-pair>
             <min-inclusive>51</min-inclusive>
@@ -44,12 +44,12 @@
         <temperature-brightness-pair>
             <min-inclusive>30</min-inclusive>
             <max-exclusive>46</max-exclusive>
-            <nit>1200</nit>
+            <nit>1000</nit>
         </temperature-brightness-pair>
         <temperature-brightness-pair>
             <min-inclusive>46</min-inclusive>
             <max-exclusive>50</max-exclusive>
-            <nit>600</nit>
+            <nit>500</nit>
         </temperature-brightness-pair>
         <temperature-brightness-pair>
             <min-inclusive>51</min-inclusive>
@@ -63,12 +63,12 @@
         <temperature-brightness-pair>
             <min-inclusive>30</min-inclusive>
             <max-exclusive>46</max-exclusive>
-            <nit>1200</nit>
+            <nit>1000</nit>
         </temperature-brightness-pair>
         <temperature-brightness-pair>
             <min-inclusive>46</min-inclusive>
             <max-exclusive>50</max-exclusive>
-            <nit>600</nit>
+            <nit>500</nit>
         </temperature-brightness-pair>
         <temperature-brightness-pair>
             <min-inclusive>51</min-inclusive>
@@ -82,12 +82,12 @@
         <temperature-brightness-pair>
             <min-inclusive>30</min-inclusive>
             <max-exclusive>46</max-exclusive>
-            <nit>1200</nit>
+            <nit>1000</nit>
         </temperature-brightness-pair>
         <temperature-brightness-pair>
             <min-inclusive>46</min-inclusive>
             <max-exclusive>50</max-exclusive>
-            <nit>600</nit>
+            <nit>500</nit>
         </temperature-brightness-pair>
         <temperature-brightness-pair>
             <min-inclusive>51</min-inclusive>
